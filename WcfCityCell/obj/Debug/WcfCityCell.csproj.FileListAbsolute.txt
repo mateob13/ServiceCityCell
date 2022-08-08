@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\bin\WcfCityCell.dll.config
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\bin\WcfCityCell.dll
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\bin\WcfCityCell.pdb
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\obj\Debug\WcfCityCell.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\obj\Debug\WcfCityCell.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\obj\Debug\WcfCityCell.dll
+C:\Users\PC\source\repos\ServiceCityCell\WcfCityCell\obj\Debug\WcfCityCell.pdb
